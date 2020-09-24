@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏼
+🥳 I’m currently pursuing my master degree in CS
+🌱 I’m currently learning SpringBoot Framework
 
 <!--
 **vnborx/vnborx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
