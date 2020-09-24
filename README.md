@@ -2,6 +2,8 @@
 - 🥳 I’m currently pursuing my Master's degree
 - 🌱 I’m currently learning SpringBoot Framework
 
+[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=vnborx&theme=dracula)](https://github.com/vnborx/github-readme-stats)
+
 <!--
 **vnborx/vnborx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
