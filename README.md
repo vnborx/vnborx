@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-- 🥳 I’m currently pursuing my master degree in CS
+- 🥳 I’m currently pursuing my Master's degree
 - 🌱 I’m currently learning SpringBoot Framework
 
 <!--
