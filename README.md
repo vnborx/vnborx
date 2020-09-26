@@ -2,7 +2,7 @@
 - 🥳 I’m currently pursuing my Master's degree
 - 🌱 I’m currently learning SpringBoot Framework
 
-[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=vnborx&theme=dracula&show_icons=true)](https://github.com/vnborx)
+[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=vnborx&theme=onedark&show_icons=true)](https://github.com/vnborx)
 
 <!--
 **vnborx/vnborx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
