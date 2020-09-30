@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 - 🥳 I’m currently pursuing my Master's degree
-- 🌱 I’m currently learning SpringBoot Framework
+- 🌱 I’m currently learning Spring Boot Framework
 
 [![Bo's github stats](https://github-readme-stats.vercel.app/api?username=vnborx&theme=onedark&show_icons=true)](https://github.com/vnborx)
 
